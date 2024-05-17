@@ -29,17 +29,13 @@ label {
 }
 
 input {
-    
-    /* width: Hug (349.88px)px; */
-    /* height: Hug (16px)px; */
     width: 349.88px;
     height: 16px;
     gap: 13.5px;
     padding: 18px 18px 20.25px 18px;
     gap: 13.5px;
-    border-radius: 18px;
+    border-radius: 6.33px;
     opacity: 0px;
-    /* text-align: left; */
     background-color: #F1F1F1;
     border: none;
 
@@ -56,7 +52,7 @@ button {
     gap: 0px;
     opacity: 0px;
     background-color: #022740;
-    border-radius: 18px;
+    border-radius: 6.33px;
     color: #FAFAFA;
     cursor: pointer;
     border: none;

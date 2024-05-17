@@ -1,0 +1,88 @@
+.container {
+    background-color: #f1f5f9;
+    width: 100vw;
+    height: 100vh;
+}
+
+header {
+    background-color: white;
+    height: 70px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.button {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 16px;
+    text-align: center;
+    width: 275px;
+    height: 44px;
+    margin-top: 0;
+    gap: 0px;
+    opacity: 0px;
+    margin-right: 15px;
+    font-family: "Nunito", sans-serif;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    margin-top: 95px;
+}
+
+.profile {
+    width: 356px;
+    height: 315px;
+    background-color: #FDFDFD;
+    border-radius: 16px;
+}
+
+.profile__picture{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 30px 0;
+}
+
+.profile__name {
+    font-family: Nunito;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 12px;
+    text-align: left;
+    color: #2F2F2F;
+    text-align: center;
+    margin-bottom: 9px;
+}
+
+.profile__pic {
+    width: 58px;
+    height: 56px;
+    border-radius: 8px;
+}
+
+.profile__infos{
+    text-align: left;
+    margin-left: 15px;
+}
+
+.profiel__label {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 12px;
+    text-align: left;
+    color: #262626;
+}
+
+.profile__input {
+    width: 296px;
+    height: 10px;
+    gap: 0px;
+    border-radius: 8px;
+    opacity: 0px;
+    margin-bottom: 20px;
+}
+
